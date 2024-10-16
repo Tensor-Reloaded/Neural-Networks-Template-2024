@@ -6,7 +6,7 @@ Lab Resources:
 
 ***
 Homework 2:
-- TODO
+- [Statement](./NN_2024_Assignment_2.pdf)
 
 ***
 For self-study (all students):
