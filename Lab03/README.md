@@ -2,7 +2,7 @@
 
 ***
 Lab Resources: 
-* [EDA-Mnist.ipynb](./EDA-Mnist.ipynb)
+* [EDA-Mnist.ipynb](./EDA_Mnist.ipynb)
 
 ***
 Homework 3:
