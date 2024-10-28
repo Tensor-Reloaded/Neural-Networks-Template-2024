@@ -13,3 +13,4 @@ For self-study (all students):
 ***
 
 Sigmoid Saturation:
+* [Sigmoid Saturation](./SigmoidSaturation.md)
