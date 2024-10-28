@@ -4,6 +4,7 @@
 Lab Resources: 
 * [Simple SGD implementation](./sgd.py)
 * [Official SGD implementation in PyTorch](https://github.com/pytorch/pytorch/blob/main/torch/optim/sgd.py#L316)
+* [Backpropagation example from scratch](./Backprop.pdf)
 
 ***
 
