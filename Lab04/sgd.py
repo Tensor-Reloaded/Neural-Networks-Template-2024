@@ -26,10 +26,11 @@ def sgd(weights: List[ndarray],
                 buf = dW.clone()
                 momentum_buffer_list[i] = buf
             else:
-                buf = buf * momentum + dW
+                # Real impl: buf = buf * momentum + dW * (1 - momentum)
+                buf = buf * momentum + dW  # This is used in PyTorch because it was proven to be better
                 momentum_buffer_list[i] = buf
 
-            dW = buf
+            dW = buf  # This is simple momentum. But we can also do Nesterov momentum.
 
         weight = weight - lr * dW
         weights[i] = weight
