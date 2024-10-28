@@ -34,7 +34,9 @@ conda config --add channels conda-forge
 
 ## Table of contents
 
-* [Lab01](./Lab01):  (Homework 1: Solve linear system)
-* [Lab02](./Lab02):  (Homework 2: Perceptron implementation)
+* [Lab01](./Lab01) (Homework 1: Solve linear system)
+* [Lab02](./Lab02) (Homework 2: Perceptron implementation)
+* [Lab03](./Lab03) (Homework 3: Multilayer Perceptron implementation)
+* [Lab04](./Lab04)
 
 
