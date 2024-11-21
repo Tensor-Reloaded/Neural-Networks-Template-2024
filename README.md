@@ -38,5 +38,7 @@ conda config --add channels conda-forge
 * [Lab02](./Lab02) (Homework 2: Perceptron implementation)
 * [Lab03](./Lab03) (Homework 3: Multilayer Perceptron implementation)
 * [Lab04](./Lab04)
+* [Lab06](./Lab06) PyTorch Tensors, Autograd
+* [Lab09](./Lab09) Datasets, DataLoaders (Homework 4: PyTorch Pipeline)
 
 
