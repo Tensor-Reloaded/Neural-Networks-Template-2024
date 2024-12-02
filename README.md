@@ -31,6 +31,7 @@ conda config --add channels conda-forge
 - Backpropagation:
    * [Neural Networks (chapter 1 - chapter 4)](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) (animated introduction to neural networks and backpropagation)
 - If you want to learn more in advance, check our [other recommended resources](https://github.com/Tensor-Reloaded/Advanced-Topics-in-Neural-Networks-Template-2024/blob/main/Resources.md).
+- Do check the [Nice Links](./Nice-Links.md)
 
 ## Table of contents
 
