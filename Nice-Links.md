@@ -8,6 +8,10 @@
 
 * torch.autocast, GradScaler: https://pytorch.org/tutorials/recipes/recipes/amp_recipe.html.
 
+## Hyperparameter tuning
+
+* Use weights and biases (wandb): https://docs.wandb.ai/tutorials/sweeps/.
+
 ## Use Learning Rate Schedulers
 
 * Reduce Learning Rate On Plateau: [link](https://pytorch.org/docs/stable/generated/torch.optim.lr_scheduler.ReduceLROnPlateau.html).
