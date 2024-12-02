@@ -21,4 +21,6 @@
 ## Pretrained models
 
 * HuggingFace models: https://huggingface.co/models.
-* PyTorch Image Models (timm): [Github](https://github.com/huggingface/pytorch-image-models), on [HuggingFace](https://huggingface.co/models?library=timm&sort=trending). 
+* PyTorch Image Models (timm):
+  * [Github repo](https://github.com/huggingface/pytorch-image-models)
+  * [timm on HuggingFace](https://huggingface.co/models?library=timm&sort=trending)
