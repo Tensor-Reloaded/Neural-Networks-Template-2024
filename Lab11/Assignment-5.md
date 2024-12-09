@@ -1,4 +1,4 @@
-# Assignment 3
+# Assignment 5
 
 Implement and train a neural network using the Q learning algorithm to control an agent in the Flappy Bird game.
 
