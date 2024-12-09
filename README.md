@@ -41,6 +41,6 @@ conda config --add channels conda-forge
 * [Lab04](./Lab04)
 * [Lab06](./Lab06) PyTorch Tensors, Autograd
 * [Lab09](./Lab09) Datasets, DataLoaders (Homework 4: PyTorch Pipeline)
-* [Lab10](./Lab10) Convolutions (Homework 5: Reinforcement Learning agent implementation)
+* [Lab10](./Lab11) Convolutions (Homework 5: Reinforcement Learning agent implementation)
 
 
