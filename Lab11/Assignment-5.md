@@ -14,6 +14,8 @@ It is not necessary to implement the neural network from scratch (you can use Py
 
 ## Evaluation
 
+Teams of 2 people.
+
 The 30-point score for the assignment will include the following:
 - training based on pixels
 - explanations for the architecture and implementation of the neural network
