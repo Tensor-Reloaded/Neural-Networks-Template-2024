@@ -14,7 +14,7 @@ It is not necessary to implement the neural network from scratch (you can use Py
 
 ## Evaluation
 
-Deadline: 30 december
+Deadline: January 6th, 2025
 
 Teams of 2 people.
 
