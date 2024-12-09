@@ -14,6 +14,8 @@ It is not necessary to implement the neural network from scratch (you can use Py
 
 ## Evaluation
 
+Deadline: 30 december
+
 Teams of 2 people.
 
 The 30-point score for the assignment will include the following:
