@@ -18,6 +18,8 @@ Deadline: January 6th, 2025
 
 Teams of 2 people.
 
+You should create a report explaining the architecture that you used alongside the hyperparameters. Also include various experimentation attempts and the score that the agent achieves on multiple runs.
+
 The 30-point score for the assignment will include the following:
 - training based on pixels
 - explanations for the architecture and implementation of the neural network
