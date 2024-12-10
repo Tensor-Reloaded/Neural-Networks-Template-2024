@@ -8,7 +8,11 @@ You can use a Flappy Bird environment from [here](https://pypi.org/project/flapp
 
 ## Specifications
 
-You can train the model directly on images (the model receives the pixels) or you can extract helpful features. If you use preprocessed data (extract certain features such as direction, distance to the pipe, etc.), you can receive a maximum score of 20 points.
+You can train the model directly on images (the model receives the pixels) or you can extract helpful features. Based on the input you are using for the model, the maximum score is capped to:
+
+- 20 points: if you provide the game state directly (this might include positions of the pipes, bird, direction, simple distances)
+- 25 points: if you provide preprocessed features (this might include more complex features extracted from the image: e.g. sensors/lidar for the bird)
+- 30 points: if you use the image as input, eventually preprocessed, if needed (resizing, grayscale conversion, thresholding, dilation, erosion, background removal, etc.)
 
 It is not necessary to implement the neural network from scratch (you can use PyTorch), but you must implement the Q learning algorithm.
 
