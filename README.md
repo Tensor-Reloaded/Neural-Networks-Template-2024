@@ -43,4 +43,5 @@ conda config --add channels conda-forge
 * [Lab09](./Lab09) Datasets, DataLoaders (Homework 4: PyTorch Pipeline)
 * [Lab10](./Lab11) Convolutions (Homework 5: Reinforcement Learning agent implementation)
 
+## [NN 2025](https://github.com/Tensor-Reloaded/Neural-Networks-Template-2025)
 
